@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<stylesheet xmlns="http://www.w3.org/1999/XSL/Transform" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:date="http://exslt.org/Dates and Times" version="1.0" extension-element-prefixes="date" date:doc="http://www.exslt.org/date">
+<stylesheet xmlns="http://www.w3.org/1999/XSL/Transform"
+   xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:date="http://exslt.org/dates-and-times"
+   version="1.0" extension-element-prefixes="date" date:doc="http://www.exslt.org/date">
    <import href="functions/date-time/date.date-time.xsl"/>
    <import href="functions/date/date.date.xsl"/>
    <import href="functions/time/date.time.xsl"/>
